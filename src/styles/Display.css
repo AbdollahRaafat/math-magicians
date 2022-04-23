@@ -1,0 +1,12 @@
+#Display {
+  margin: 50px 0 0 0;
+  padding: 20px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  background-color: rgb(94, 92, 92);
+  color: #fff;
+  font-weight: bold;
+  font-size: 2rem;
+  justify-content: flex-end;
+}
