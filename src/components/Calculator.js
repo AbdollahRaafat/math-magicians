@@ -18,8 +18,13 @@ const Calculator = () => {
 
   return (
     <div id="app">
-      <Display total={total} next={next} operation={operation} />
-      <BtnPanel clickHandler={handleClick} />
+      <div id="left">
+        <h1>Let&lsquo;s do some math!</h1>
+      </div>
+      <div id="right">
+        <Display total={total} next={next} operation={operation} />
+        <BtnPanel clickHandler={handleClick} />
+      </div>
     </div>
   );
 };
