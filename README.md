@@ -13,6 +13,10 @@
 - JS
 - React
 
+## Screenshot
+
+![screenshot](./src/screenshot1.png)
+
 ## Get a copy
 
 - Prepare a local directory. 

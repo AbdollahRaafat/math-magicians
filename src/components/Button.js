@@ -29,7 +29,7 @@ Button.propTypes = {
 
 Button.defaultProps = {
   wide: false,
-  color: '#FFAA33',
+  color: '#AFCDDA',
 };
 
 export default Button;

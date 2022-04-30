@@ -3,8 +3,9 @@
   padding: 20px;
   height: 100px;
   display: flex;
+  border-radius: 5px 5px 0 0;
   align-items: center;
-  background-color: rgb(94, 92, 92);
+  background-color: peru;
   color: #fff;
   font-weight: bold;
   font-size: 2rem;
